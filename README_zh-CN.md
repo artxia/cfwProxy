@@ -31,6 +31,8 @@ fetch("https://cors.netnr.workers.dev/" + $url).then(x => x.text()).then(console
 - `wrangler publish` 发布
 - 详细文档：<https://developers.cloudflare.com/workers/quickstart>
 
+[ ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button) ](https://deploy.workers.cloudflare.com/?url=https://github.com/artxia/cfwProxy)
+
 ### 套餐
  CPU | 日请求 | 突发速率 | 脚本大小 
  ---- | ---- | ---- | ---- 
