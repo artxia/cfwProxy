@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "cors",
+  "name": "proxy",
   "version": "1.0.0",
   "description": "cors",
   "main": "index.js",
