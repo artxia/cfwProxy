@@ -1,5 +1,5 @@
 account_id = ""
-name = "cors"
+name = "proxy"
 type = "webpack"
 route = ""
 workers_dev = true
